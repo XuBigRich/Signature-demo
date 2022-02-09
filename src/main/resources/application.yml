@@ -1,0 +1,5 @@
+server:
+  port: 8001
+verification:
+  key: cmdtest1cmdtest1
+  singStr: JeF8U9wHFOMfs2Y8
